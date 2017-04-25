@@ -4,8 +4,8 @@
 * hehe
 - hehe
 - hehe
-1 hehe
-2 hehe
+1. hehe
+2. hehe
  
 	
 > 这是一个说明
@@ -18,3 +18,8 @@
 `while true;
  do echo hehe;
  done`
+ 	
+**我变粗了**
+*我变斜了*
+ 
+***
